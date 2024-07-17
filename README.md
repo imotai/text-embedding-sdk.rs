@@ -1,12 +1,10 @@
 # text-embedding-sdk
 the rust sdk for text-embeddings-inference based on grpc
 
-## Features
+# Status
 
-* Embed
-    [x] embed 
-    [ ] embed_stream
+Embed Service
+* [x] embed 
 
-* Rerank
-    [x] rerank
-    [ ] rerank_stream
+Rerank Service
+* [x] rerank
